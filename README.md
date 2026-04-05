@@ -1,16 +1,45 @@
 ## Hi there 👋
+# Hi there 👋, I'm Youssef Yasser
 
-<!--
-**yousseffyasser1/yousseffyasser1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer  
+🎓 Frontend Developer transitioning to Full Stack  
+🚀 Passionate about building modern web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🎓 Computer Science Student
+- 🌱 Currently learning MERN Stack
+- 💼 Open to Internship & Junior Opportunities
+- ⚡ Love building real-world projects
+
+---
+
+## 🚀 Tech Stack
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Bootstrap
+- Git & GitHub
+
+---
+
+## 📌 Featured Projects
+- 🛒 E-commerce Website
+- ✅ Advanced To-Do List
+- 🌦️ Weather App (API Integration)
+- 💬 Chatify (Graduation Project)
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: (www.linkedin.com/in/yousseffyasser1)
+- Email: (youssefyasser752@gmail.com)
+
+---
+
+⭐ From [Youssef Yasser]
