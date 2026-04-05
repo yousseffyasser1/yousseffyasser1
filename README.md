@@ -59,8 +59,3 @@
 <p align="left">📫 Connect with Me<br>- LinkedIn: (www.linkedin.com/in/yousseffyasser1)<br>- Email: (youssefyasser752@gmail.com)</p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/yousseffyasser1/yousseffyasser1/output/snake.svg" alt="Snake animation" />
-
-###
-
